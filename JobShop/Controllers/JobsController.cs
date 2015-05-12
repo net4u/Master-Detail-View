@@ -38,12 +38,15 @@ namespace JobShop.Controllers
         }
 
         // GET: Jobs/Create
-        public JsonResult Create(Jobs jobs)
+        
+        public ActionResult Create(Jobs jobs)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
+                    ViewBag.User = new SelectList(db.AspNetUsers, "Id", "Email");
+            
                     //Is Jobs has ID then we can understand that we have existing Jobs Information, so we need to perform Update Operation
                     //Perform Update
                     if (jobs.IdJob > 0)
@@ -60,10 +63,16 @@ namespace JobShop.Controllers
                     else
                     {
                         db.Jobs.Add(jobs);
+                        db.SaveChanges();
+                        //return RedirectToAction("Index");
+                        //iF Success== 1 then Save/Update Successfull else there it has to raise Exception
+                        //return Json(new { Success = 1, IdJob = jobs.IdJob, ex = "" }, JsonRequestBehavior.AllowGet);
                     }
-                    db.SaveChanges();
+                    //db.SaveChanges();
+                    ViewBag.User = new SelectList(db.AspNetUsers, "Id", "Email", jobs.User);
                     //iF Success== 1 then Save/Update Successfull else there it has to raise Exception
-                    return Json(new { Success = 1, IdJob = jobs.IdJob, ex = "" }, JsonRequestBehavior.AllowGet);
+                    //return Json(new { Success = 1, IdJob = jobs.IdJob, ex = "" }, JsonRequestBehavior.AllowGet);
+                    return View();
                 }
             }
             catch (Exception ex)
@@ -73,6 +82,7 @@ namespace JobShop.Controllers
             }
             return Json(new { Success = 0, ex = new Exception("Unable to save").Message.ToString() }, JsonRequestBehavior.AllowGet);
         }
+        
 
          // GET: Jobs/Edit/5
         public ActionResult Edit(int? id)
