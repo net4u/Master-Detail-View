@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9f62495ab8bb40078b887314e4a46aae" Name="Diagram1">
+        <EntityTypeShape EntityType="JobShopModel.AspNetRoles" Width="1.5" PointX="0.75" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.AspNetUserClaims" Width="1.5" PointX="5.25" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.AspNetUserDetails" Width="1.5" PointX="5.25" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.AspNetUserLogins" Width="1.5" PointX="5.25" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.AspNetUsers" Width="1.5" PointX="3" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidateEducation" Width="1.5" PointX="7.5" PointY="18.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidateExperience" Width="1.5" PointX="7.5" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidateReq" Width="1.5" PointX="7.5" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.Candidates" Width="1.5" PointX="5.25" PointY="20.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidatesApplications" Width="1.5" PointX="10.5" PointY="22.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidateSkills" Width="1.5" PointX="7.5" PointY="29.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidatesLanguages" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CandidateViews" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.CVee" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.JobApplications" Width="1.5" PointX="10.5" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.JobEducation" Width="1.5" PointX="12.5" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.JobExperience" Width="1.5" PointX="12.5" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.JobRequirements" Width="1.5" PointX="12.5" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.Jobs" Width="1.5" PointX="10.25" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.JobSkills" Width="1.5" PointX="12.5" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.JobsLanguages" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.Skills" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.WorkContractType" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.WorkExperience" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.WorkIndustry" Width="1.5" PointX="8" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.WorkPermit" Width="1.5" PointX="8" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="JobShopModel.WorkType" Width="1.5" PointX="8" PointY="15.5" IsExpanded="true" />
+        <AssociationConnector Association="JobShopModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.AspNetUserDetails_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.Candidates_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.Jobs_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.CandidateEducation_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.CandidateExperience_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.CandidateReq_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.CandidatesApplications_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.CandidateSkills_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.JobApplications_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.CandidatesApplications_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.JobApplications_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.JobEducation_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.JobExperience_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.JobRequirements_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.Jobs_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.Jobs_fk3" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.Jobs_fk4" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.JobSkills_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="JobShopModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

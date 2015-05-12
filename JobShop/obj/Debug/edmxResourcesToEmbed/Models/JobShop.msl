@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="JobShopModelStoreContainer" CdmEntityContainer="JobShopEntities">
+    <EntitySetMapping Name="AspNetRoles">
+      <EntityTypeMapping TypeName="JobShopModel.AspNetRoles">
+        <MappingFragment StoreEntitySet="AspNetRoles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserClaims">
+      <EntityTypeMapping TypeName="JobShopModel.AspNetUserClaims">
+        <MappingFragment StoreEntitySet="AspNetUserClaims">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ClaimType" ColumnName="ClaimType" />
+          <ScalarProperty Name="ClaimValue" ColumnName="ClaimValue" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserDetails">
+      <EntityTypeMapping TypeName="JobShopModel.AspNetUserDetails">
+        <MappingFragment StoreEntitySet="AspNetUserDetails">
+          <ScalarProperty Name="IdDetail" ColumnName="IdDetail" />
+          <ScalarProperty Name="IdUser" ColumnName="IdUser" />
+          <ScalarProperty Name="Detail" ColumnName="Detail" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUserLogins">
+      <EntityTypeMapping TypeName="JobShopModel.AspNetUserLogins">
+        <MappingFragment StoreEntitySet="AspNetUserLogins">
+          <ScalarProperty Name="LoginProvider" ColumnName="LoginProvider" />
+          <ScalarProperty Name="ProviderKey" ColumnName="ProviderKey" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AspNetUsers">
+      <EntityTypeMapping TypeName="JobShopModel.AspNetUsers">
+        <MappingFragment StoreEntitySet="AspNetUsers">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="EmailConfirmed" ColumnName="EmailConfirmed" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="SecurityStamp" ColumnName="SecurityStamp" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="PhoneNumberConfirmed" ColumnName="PhoneNumberConfirmed" />
+          <ScalarProperty Name="FaxNumber" ColumnName="FaxNumber" />
+          <ScalarProperty Name="TwoFactorEnabled" ColumnName="TwoFactorEnabled" />
+          <ScalarProperty Name="LockoutEndDateUtc" ColumnName="LockoutEndDateUtc" />
+          <ScalarProperty Name="LockoutEnabled" ColumnName="LockoutEnabled" />
+          <ScalarProperty Name="AccessFailedCount" ColumnName="AccessFailedCount" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Companyname" ColumnName="Companyname" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ZIP" ColumnName="ZIP" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="Website" ColumnName="Website" />
+          <ScalarProperty Name="ThumbURL" ColumnName="ThumbURL" />
+          <ScalarProperty Name="ThumbImg" ColumnName="ThumbImg" />
+          <ScalarProperty Name="Facebook" ColumnName="Facebook" />
+          <ScalarProperty Name="Twitter" ColumnName="Twitter" />
+          <ScalarProperty Name="GooglePlus" ColumnName="GooglePlus" />
+          <ScalarProperty Name="Dribble" ColumnName="Dribble" />
+          <ScalarProperty Name="Pinterest" ColumnName="Pinterest" />
+          <ScalarProperty Name="LinkedIn" ColumnName="LinkedIn" />
+          <ScalarProperty Name="Favorited" ColumnName="Favorited" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="BirthDate" ColumnName="BirthDate" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+          <ScalarProperty Name="CreditBalance" ColumnName="CreditBalance" />
+          <ScalarProperty Name="ThumbSmallSRC" ColumnName="ThumbSmallSRC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidateEducation">
+      <EntityTypeMapping TypeName="JobShopModel.CandidateEducation">
+        <MappingFragment StoreEntitySet="CandidateEducation">
+          <ScalarProperty Name="Id_Edu" ColumnName="Id_Edu" />
+          <ScalarProperty Name="Id_CV" ColumnName="Id_CV" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DateStart" ColumnName="DateStart" />
+          <ScalarProperty Name="DateEnd" ColumnName="DateEnd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidateExperience">
+      <EntityTypeMapping TypeName="JobShopModel.CandidateExperience">
+        <MappingFragment StoreEntitySet="CandidateExperience">
+          <ScalarProperty Name="IdExp" ColumnName="IdExp" />
+          <ScalarProperty Name="Id_CV" ColumnName="Id_CV" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DateStart" ColumnName="DateStart" />
+          <ScalarProperty Name="DateEnd" ColumnName="DateEnd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidateReq">
+      <EntityTypeMapping TypeName="JobShopModel.CandidateReq">
+        <MappingFragment StoreEntitySet="CandidateReq">
+          <ScalarProperty Name="IdReq" ColumnName="IdReq" />
+          <ScalarProperty Name="Id_CV" ColumnName="Id_CV" />
+          <ScalarProperty Name="Requirement" ColumnName="Requirement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Candidates">
+      <EntityTypeMapping TypeName="JobShopModel.Candidates">
+        <MappingFragment StoreEntitySet="Candidates">
+          <ScalarProperty Name="IdCV" ColumnName="IdCV" />
+          <ScalarProperty Name="User" ColumnName="User" />
+          <ScalarProperty Name="Experienta" ColumnName="Experienta" />
+          <ScalarProperty Name="DateAdd" ColumnName="DateAdd" />
+          <ScalarProperty Name="ImageSRC" ColumnName="ImageSRC" />
+          <ScalarProperty Name="Titlu" ColumnName="Titlu" />
+          <ScalarProperty Name="WhereWhat" ColumnName="WhereWhat" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="Solicitare" ColumnName="Solicitare" />
+          <ScalarProperty Name="Orar" ColumnName="Orar" />
+          <ScalarProperty Name="MinSal" ColumnName="MinSal" />
+          <ScalarProperty Name="MaxSal" ColumnName="MaxSal" />
+          <ScalarProperty Name="Localitate" ColumnName="Localitate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ZIP" ColumnName="ZIP" />
+          <ScalarProperty Name="Latitudine" ColumnName="Latitudine" />
+          <ScalarProperty Name="Longitudine" ColumnName="Longitudine" />
+          <ScalarProperty Name="DateStart" ColumnName="DateStart" />
+          <ScalarProperty Name="DateEnd" ColumnName="DateEnd" />
+          <ScalarProperty Name="Region" ColumnName="Region" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidatesApplications">
+      <EntityTypeMapping TypeName="JobShopModel.CandidatesApplications">
+        <MappingFragment StoreEntitySet="CandidatesApplications">
+          <ScalarProperty Name="IdApp" ColumnName="IdApp" />
+          <ScalarProperty Name="IdCV" ColumnName="IdCV" />
+          <ScalarProperty Name="IdJob" ColumnName="IdJob" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidateSkills">
+      <EntityTypeMapping TypeName="JobShopModel.CandidateSkills">
+        <MappingFragment StoreEntitySet="CandidateSkills">
+          <ScalarProperty Name="Id_Skill" ColumnName="Id_Skill" />
+          <ScalarProperty Name="Id_CV" ColumnName="Id_CV" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidatesLanguages">
+      <EntityTypeMapping TypeName="JobShopModel.CandidatesLanguages">
+        <MappingFragment StoreEntitySet="CandidatesLanguages">
+          <ScalarProperty Name="IdLanguage" ColumnName="IdLanguage" />
+          <ScalarProperty Name="Id_CV" ColumnName="Id_CV" />
+          <ScalarProperty Name="Language" ColumnName="Language" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CandidateViews">
+      <EntityTypeMapping TypeName="JobShopModel.CandidateViews">
+        <MappingFragment StoreEntitySet="CandidateViews">
+          <ScalarProperty Name="IdView" ColumnName="IdView" />
+          <ScalarProperty Name="IdCV" ColumnName="IdCV" />
+          <ScalarProperty Name="ViewDate" ColumnName="ViewDate" />
+          <ScalarProperty Name="ViewBy" ColumnName="ViewBy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CVee">
+      <EntityTypeMapping TypeName="JobShopModel.CVee">
+        <MappingFragment StoreEntitySet="CVee">
+          <ScalarProperty Name="IdCeeVee" ColumnName="IdCeeVee" />
+          <ScalarProperty Name="IdCandidate" ColumnName="IdCandidate" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JobApplications">
+      <EntityTypeMapping TypeName="JobShopModel.JobApplications">
+        <MappingFragment StoreEntitySet="JobApplications">
+          <ScalarProperty Name="IdApplication" ColumnName="IdApplication" />
+          <ScalarProperty Name="IdJob" ColumnName="IdJob" />
+          <ScalarProperty Name="IdCV" ColumnName="IdCV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JobEducation">
+      <EntityTypeMapping TypeName="JobShopModel.JobEducation">
+        <MappingFragment StoreEntitySet="JobEducation">
+          <ScalarProperty Name="Id_Edu" ColumnName="Id_Edu" />
+          <ScalarProperty Name="IdJob" ColumnName="IdJob" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DateStart" ColumnName="DateStart" />
+          <ScalarProperty Name="DateEnd" ColumnName="DateEnd" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JobExperience">
+      <EntityTypeMapping TypeName="JobShopModel.JobExperience">
+        <MappingFragment StoreEntitySet="JobExperience">
+          <ScalarProperty Name="IdJobExp" ColumnName="IdJobExp" />
+          <ScalarProperty Name="IdJob" ColumnName="IdJob" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JobRequirements">
+      <EntityTypeMapping TypeName="JobShopModel.JobRequirements">
+        <MappingFragment StoreEntitySet="JobRequirements">
+          <ScalarProperty Name="IdReq" ColumnName="IdReq" />
+          <ScalarProperty Name="Id_Job" ColumnName="Id_Job" />
+          <ScalarProperty Name="Requirement" ColumnName="Requirement" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Jobs">
+      <EntityTypeMapping TypeName="JobShopModel.Jobs">
+        <MappingFragment StoreEntitySet="Jobs">
+          <ScalarProperty Name="IdJob" ColumnName="IdJob" />
+          <ScalarProperty Name="IdWho" ColumnName="IdWho" />
+          <ScalarProperty Name="User" ColumnName="User" />
+          <ScalarProperty Name="DateAdd" ColumnName="DateAdd" />
+          <ScalarProperty Name="VideoSRC" ColumnName="VideoSRC" />
+          <ScalarProperty Name="ImageSRC" ColumnName="ImageSRC" />
+          <ScalarProperty Name="MarkerImagePath" ColumnName="MarkerImagePath" />
+          <ScalarProperty Name="Titlu" ColumnName="Titlu" />
+          <ScalarProperty Name="WhereWhat" ColumnName="WhereWhat" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+          <ScalarProperty Name="Solicitare" ColumnName="Solicitare" />
+          <ScalarProperty Name="DateStart" ColumnName="DateStart" />
+          <ScalarProperty Name="DateEnd" ColumnName="DateEnd" />
+          <ScalarProperty Name="Orar" ColumnName="Orar" />
+          <ScalarProperty Name="Localitate" ColumnName="Localitate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Latitudine" ColumnName="Latitudine" />
+          <ScalarProperty Name="Longitudine" ColumnName="Longitudine" />
+          <ScalarProperty Name="ZIP" ColumnName="ZIP" />
+          <ScalarProperty Name="Region" ColumnName="Region" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="MinSal" ColumnName="MinSal" />
+          <ScalarProperty Name="MaxSal" ColumnName="MaxSal" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="WorkPermit" ColumnName="WorkPermit" />
+          <ScalarProperty Name="WorkType" ColumnName="WorkType" />
+          <ScalarProperty Name="WorkIndustry" ColumnName="WorkIndustry" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JobSkills">
+      <EntityTypeMapping TypeName="JobShopModel.JobSkills">
+        <MappingFragment StoreEntitySet="JobSkills">
+          <ScalarProperty Name="IdSkill" ColumnName="IdSkill" />
+          <ScalarProperty Name="Id_Job" ColumnName="Id_Job" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JobsLanguages">
+      <EntityTypeMapping TypeName="JobShopModel.JobsLanguages">
+        <MappingFragment StoreEntitySet="JobsLanguages">
+          <ScalarProperty Name="IdLanguage" ColumnName="IdLanguage" />
+          <ScalarProperty Name="Id_Job" ColumnName="Id_Job" />
+          <ScalarProperty Name="Language" ColumnName="Language" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Skills">
+      <EntityTypeMapping TypeName="JobShopModel.Skills">
+        <MappingFragment StoreEntitySet="Skills">
+          <ScalarProperty Name="IdSkill" ColumnName="IdSkill" />
+          <ScalarProperty Name="Skill" ColumnName="Skill" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkContractType">
+      <EntityTypeMapping TypeName="JobShopModel.WorkContractType">
+        <MappingFragment StoreEntitySet="WorkContractType">
+          <ScalarProperty Name="IdType" ColumnName="IdType" />
+          <ScalarProperty Name="ContractType" ColumnName="ContractType" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkExperience">
+      <EntityTypeMapping TypeName="JobShopModel.WorkExperience">
+        <MappingFragment StoreEntitySet="WorkExperience">
+          <ScalarProperty Name="IdType" ColumnName="IdType" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkIndustry">
+      <EntityTypeMapping TypeName="JobShopModel.WorkIndustry">
+        <MappingFragment StoreEntitySet="WorkIndustry">
+          <ScalarProperty Name="IdIndustry" ColumnName="IdIndustry" />
+          <ScalarProperty Name="Industry" ColumnName="Industry" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkPermit">
+      <EntityTypeMapping TypeName="JobShopModel.WorkPermit">
+        <MappingFragment StoreEntitySet="WorkPermit">
+          <ScalarProperty Name="IdType" ColumnName="IdType" />
+          <ScalarProperty Name="WorkPermit1" ColumnName="WorkPermit" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WorkType">
+      <EntityTypeMapping TypeName="JobShopModel.WorkType">
+        <MappingFragment StoreEntitySet="WorkType">
+          <ScalarProperty Name="IdType" ColumnName="IdType" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="AspNetUserRoles" TypeName="JobShopModel.AspNetUserRoles" StoreEntitySet="AspNetUserRoles">
+      <EndProperty Name="AspNetRoles">
+        <ScalarProperty Name="Id" ColumnName="RoleId" />
+      </EndProperty>
+      <EndProperty Name="AspNetUsers">
+        <ScalarProperty Name="Id" ColumnName="UserId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

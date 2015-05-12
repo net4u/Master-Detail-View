@@ -1,0 +1,110 @@
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\JobShop.dll.config
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\JobShop.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\JobShop.pdb
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Antlr3.Runtime.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\EntityFramework.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Newtonsoft.Json.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Owin.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Helpers.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Mvc.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Optimization.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Razor.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.WebPages.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\WebGrease.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Helpers.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Mvc.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Optimization.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.Razor.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.WebPages.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Antlr3.Runtime.pdb
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Newtonsoft.Json.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\EntityFramework.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\obj\Debug\JobShop.csprojResolveAssemblyReference.cache
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\obj\Debug\JobShop.dll
+C:\Users\Laurentiu\Downloads\Master Detail CRUD Operations using EF and ASP.net MVC 3\C#\JobShop\obj\Debug\JobShop.pdb
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\JobShop.dll.config
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\JobShop.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\JobShop.pdb
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Antlr3.Runtime.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\EntityFramework.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Newtonsoft.Json.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Owin.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Helpers.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Mvc.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Optimization.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Razor.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.WebPages.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\WebGrease.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Helpers.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Mvc.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Optimization.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.Razor.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.WebPages.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Antlr3.Runtime.pdb
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Newtonsoft.Json.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\EntityFramework.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\obj\Debug\JobShop.csprojResolveAssemblyReference.cache
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\obj\Debug\JobShop.dll
+C:\Users\Laurentiu\Documents\GitHub\Master Detail View\JobShop\obj\Debug\JobShop.pdb
