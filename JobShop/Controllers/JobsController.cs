@@ -46,6 +46,7 @@ namespace JobShop.Controllers
                 if (ModelState.IsValid)
                 {
                     ViewBag.User = new SelectList(db.AspNetUsers, "Id", "Email");
+                    var model = new Jobs();
             
                     //Is Jobs has ID then we can understand that we have existing Jobs Information, so we need to perform Update Operation
                     //Perform Update
@@ -72,7 +73,8 @@ namespace JobShop.Controllers
                     ViewBag.User = new SelectList(db.AspNetUsers, "Id", "Email", jobs.User);
                     //iF Success== 1 then Save/Update Successfull else there it has to raise Exception
                     //return Json(new { Success = 1, IdJob = jobs.IdJob, ex = "" }, JsonRequestBehavior.AllowGet);
-                    return View();
+                    return View(model);
+                    //return RedirectToAction("Index");
                 }
             }
             catch (Exception ex)

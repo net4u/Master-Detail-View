@@ -217,6 +217,7 @@
     <Compile Include="Models\CandidatesLanguages.cs">
       <DependentUpon>JobShop.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\CandidatesVM.cs" />
     <Compile Include="Models\CandidateViews.cs">
       <DependentUpon>JobShop.tt</DependentUpon>
     </Compile>
@@ -260,10 +261,12 @@
     <Compile Include="Models\JobsLanguages.cs">
       <DependentUpon>JobShop.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\JobsVM.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Skills.cs">
       <DependentUpon>JobShop.tt</DependentUpon>
     </Compile>
+    <Compile Include="Models\UsersVM.cs" />
     <Compile Include="Models\WorkContractType.cs">
       <DependentUpon>JobShop.tt</DependentUpon>
     </Compile>

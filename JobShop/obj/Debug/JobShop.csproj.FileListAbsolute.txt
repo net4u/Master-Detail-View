@@ -165,3 +165,4 @@ C:\Users\Laurentiu\Documents\GitHub\Master-Detail-View\JobShop\bin\Microsoft.Owi
 C:\Users\Laurentiu\Documents\GitHub\Master-Detail-View\JobShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Laurentiu\Documents\GitHub\Master-Detail-View\JobShop\obj\Debug\JobShop.dll
 C:\Users\Laurentiu\Documents\GitHub\Master-Detail-View\JobShop\obj\Debug\JobShop.pdb
+C:\Users\Laurentiu\Documents\GitHub\Master-Detail-View\JobShop\obj\Debug\JobShop.csprojResolveAssemblyReference.cache
